@@ -7,11 +7,11 @@
   <a href="https://github.com/nxvtej">
   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxvtej&layout=compact&langs_count=7&theme=algolia"/>
   <img height="140em" src="https://streak-stats.demolab.com/?user=nxvtej&theme=algolia%22%20alt=%22GitHub%20Streak" />  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxvtej&theme=algolia">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nxvtej&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxvtej&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxvtej&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nxvtej&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxvtej&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nxvtej&theme=algolia">
 </div>
     
 ## 👑 Trophy 👑  
@@ -30,7 +30,7 @@
   <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma">
   <h3>Tools</h3>
-     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,,postman,c,vim,vscode,github" />
+     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,c,vim,vscode,github" />
 </div>
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
