@@ -11,6 +11,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nxvtej&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxvtej&theme=algolia">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nxvtej&theme=algolia">
+    <img src="https://leetcode.card.workers.dev/nxvtej?theme=auto&font=baloo&extension=null">
 </div>
     
 ## 👑 Trophy 👑  
