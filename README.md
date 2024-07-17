@@ -26,11 +26,11 @@
   <h3>FrontEnd language</h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,js">
   <h3>BackEnd language</h3>
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,yarn,hono">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express">
   <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma">
   <h3>Tools</h3>
-     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,c,vim,vscode,github" />
+     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,c,vim,vscode,github,npm,yarn" />
 </div>
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
