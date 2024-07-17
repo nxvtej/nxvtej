@@ -26,7 +26,7 @@
   <h3>FrontEnd language</h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,js">
   <h3>BackEnd language</h3>
-    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,yarn">
+    <img src="https://skillicons.dev/icons?i=ts,nodejs,express,npm,yarn,strapi">
   <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma">
   <h3>Tools</h3>
