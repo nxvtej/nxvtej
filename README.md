@@ -1,10 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://capsule-render.vercel.app/api?type=shark&height=300&color=gradient&text=I'm%20Navdeep%20Singh&animation=fadeIn" alt="Typing SVG" /></a>
 
 
 ## ⚡ Git Stats ⚡
 <div>
   <a href="https://github.com/nxvtej">
-<!--   <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxvtej&layout=compact&langs_count=7&theme=algolia"/> -->
+  <img loading="lazy" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxvtej&layout=compact&langs_count=7&theme=algolia"/>
   <img height="140em" src="https://streak-stats.demolab.com/?user=nxvtej&theme=algolia%22%20alt=%22GitHub%20Streak" />  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxvtej&theme=algolia">
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxvtej&theme=algolia"> -->
