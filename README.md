@@ -13,16 +13,14 @@
 
 <div align=center>
   <h2>Langs And Tools</h2>
-  <h3>DataStructure(s) language</h3>
-     <img src="https://skillicons.dev/icons?i=c,cpp,java">
+  <h3>Tools</h3>
+     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,c,vim,vscode,github,npm,yarn" />
   <h3>FrontEnd language</h3>
     <img src="https://skillicons.dev/icons?i=react,tailwind,js">
   <h3>BackEnd language</h3>
     <img src="https://skillicons.dev/icons?i=ts,nodejs,express">
   <h3>Databases</h3>
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,prisma">
-  <h3>Tools</h3>
-     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,postman,c,vim,vscode,github,npm,yarn" />
 </div>
 
 <div style='display:flex !important; flex-direction:row !important; align-items:center !important; justify-content:center !important;'>
