@@ -8,9 +8,7 @@
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nxvtej&theme=algolia"> -->
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nxvtej&theme=algolia"> -->
 <!--   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nxvtej&theme=algolia"> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxvtej&theme=algolia">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nxvtej&theme=algolia">
-    <img src="https://leetcode.card.workers.dev/nxvtej?theme=auto&font=baloo&extension=null">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nxvtej&theme=algolia"><img src="https://leetcode.card.workers.dev/nxvtej?theme=auto&font=baloo&extension=null">
 </div>
 
 <div align=center>
